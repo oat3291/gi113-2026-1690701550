@@ -1,7 +1,7 @@
 /*
- * Student ID :
- * Name       :
- * Section    :
+ * Student ID :1690701550
+ * Name       :Sirasak Tumtong
+ * Section    :129B
  * No.        :
  * Course     : GI113 Computer Programming (GI)
  */
