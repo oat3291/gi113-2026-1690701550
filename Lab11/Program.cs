@@ -10,7 +10,7 @@ class Program
 {
   static void Main(string[] args)
     {
-        int[] numbers = { -5, -2, -9 };
+        int[] numbers = { 3, 40, 8, 15, 22 };
         int sum;
         float average;
         int maximum;
